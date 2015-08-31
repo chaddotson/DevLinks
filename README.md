@@ -1,7 +1,7 @@
 # DevLinks
 
-
-## System
+##### Python
+http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/ - ZeroMQ with Python
 
 ##### Rust
 https://www.rust-lang.org/
@@ -9,7 +9,7 @@ https://www.rust-lang.org/
 ##### D
 http://ddili.org/ders/d.en/ - Programming in D
 
-## Web
+
 ###### Firefox Paint Flashing Tool
 https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool
 
