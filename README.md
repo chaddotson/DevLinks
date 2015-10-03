@@ -17,6 +17,9 @@ http://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Learning JavaS
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/ - Tasks, microtasks, queues and schedules
 
 
+##### Arduino
+https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi - SPI multiple slaves.
+
 ###### Other
 https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool - Firefox Paint Flashing Tool
 http://taligarsiel.com/Projects/howbrowserswork1.htm#Global_and_incremental_layout - How browsers work
