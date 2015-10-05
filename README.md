@@ -25,6 +25,8 @@ http://www.instructables.com/id/I2C-between-Arduinos/ - I2C protocol betweeen ar
 
 http://www.pighixxx.com/test/pinoutspg/boards/ - Great Pinout diagrams of Arduino boards.
 
+https://www.youtube.com/playlist?list=PLE0C7D8863F6DACCE - Arduino Tutorial Videos
+
 ###### Other
 https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool - Firefox Paint Flashing Tool
 
