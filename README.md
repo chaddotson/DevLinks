@@ -31,3 +31,5 @@ https://www.youtube.com/playlist?list=PLE0C7D8863F6DACCE - Arduino Tutorial Vide
 https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool - Firefox Paint Flashing Tool
 
 http://taligarsiel.com/Projects/howbrowserswork1.htm#Global_and_incremental_layout - How browsers work
+
+https://medium.com/@garywiz/five-things-old-programmers-need-to-remember-e78caf0b0973 - Things to remember over time.
