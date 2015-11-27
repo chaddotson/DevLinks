@@ -2,6 +2,7 @@
 
 ##### Python
 http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/ - ZeroMQ with Python
+https://code.google.com/p/soc/wiki/PythonStyleGuide - Pretty good Python style guide
 
 
 ##### Rust
