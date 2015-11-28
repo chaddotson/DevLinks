@@ -2,8 +2,10 @@
 
 ##### Python
 http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/ - ZeroMQ with Python
+
 https://code.google.com/p/soc/wiki/PythonStyleGuide - Pretty good Python style guide
 
+https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d - How to use Tkinter video series
 
 ##### Rust
 https://www.rust-lang.org/
