@@ -7,6 +7,9 @@ https://code.google.com/p/soc/wiki/PythonStyleGuide - Pretty good Python style g
 
 https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d - How to use Tkinter video series
 
+http://pyvideo.org/video/389/pycon-2011--reverse-engineering-ian-bicking--39-s - Reverse-engineering Ian Bicking's brain: inside pip and virtualenv video (PyCon)
+http://carljm.github.io/pipvirtualenv-preso/#1 - Reverse-engineering Ian Bicking's brain: inside pip and virtualenv slides (PyCon)
+
 ##### Rust
 https://www.rust-lang.org/
 
