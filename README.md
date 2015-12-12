@@ -1,42 +1,67 @@
 # DevLinks
 
 ##### Python
-http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/ - ZeroMQ with Python
 
-https://code.google.com/p/soc/wiki/PythonStyleGuide - Pretty good Python style guide
+ZeroMQ with Python
+http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
 
-https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d - How to use Tkinter video series
+Pretty good Python style guide
+https://code.google.com/p/soc/wiki/PythonStyleGuide
 
-http://pyvideo.org/video/389/pycon-2011--reverse-engineering-ian-bicking--39-s - Reverse-engineering Ian Bicking's brain: inside pip and virtualenv video (PyCon)
+How to use Tkinter video series
+https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d
 
-http://carljm.github.io/pipvirtualenv-preso/#1 - Reverse-engineering Ian Bicking's brain: inside pip and virtualenv slides (PyCon)
+Reverse-engineering Ian Bicking's brain: inside pip and virtualenv video (PyCon)
+http://pyvideo.org/video/389/pycon-2011--reverse-engineering-ian-bicking--39-s
+
+Reverse-engineering Ian Bicking's brain: inside pip and virtualenv slides (PyCon)
+http://carljm.github.io/pipvirtualenv-preso/#1
 
 ##### Rust
+
+Rust Language
 https://www.rust-lang.org/
 
 
 ##### D
-http://ddili.org/ders/d.en/ - Programming in D
+
+Programming in D
+http://ddili.org/ders/d.en/
 
 
 ##### JavaScript
-http://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Learning JavaScript Design Patterns
 
-https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/ - Tasks, microtasks, queues and schedules
+Learning JavaScript Design Patterns
+http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+Tasks, microtasks, queues and schedules
+https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 
 
 ##### Arduino
-https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi - SPI multiple slaves.
 
-http://www.instructables.com/id/I2C-between-Arduinos/ - I2C protocol betweeen arduinos.
+SPI multiple slaves.
+https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi
 
-http://www.pighixxx.com/test/pinoutspg/boards/ - Great Pinout diagrams of Arduino boards.
+I2C protocol betweeen arduinos.
+http://www.instructables.com/id/I2C-between-Arduinos/
 
-https://www.youtube.com/playlist?list=PLE0C7D8863F6DACCE - Arduino Tutorial Videos
+Great Pinout diagrams of Arduino boards.
+http://www.pighixxx.com/test/pinoutspg/boards/
+
+Arduino Tutorial Videos
+https://www.youtube.com/playlist?list=PLE0C7D8863F6DACCE
 
 ###### Other
-https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool - Firefox Paint Flashing Tool
 
-http://taligarsiel.com/Projects/howbrowserswork1.htm#Global_and_incremental_layout - How browsers work
+Firefox Paint Flashing Tool
+https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool
 
-https://medium.com/@garywiz/five-things-old-programmers-need-to-remember-e78caf0b0973 - Things to remember over time.
+How browsers work
+http://taligarsiel.com/Projects/howbrowserswork1.htm#Global_and_incremental_layout
+
+Things to remember over time.
+https://medium.com/@garywiz/five-things-old-programmers-need-to-remember-e78caf0b0973
+
+TextCleaner - Image Manipulation
+http://www.fmwconcepts.com/imagemagick/textcleaner/index.php
