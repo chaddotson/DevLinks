@@ -17,6 +17,9 @@ http://pyvideo.org/video/389/pycon-2011--reverse-engineering-ian-bicking--39-s
 Reverse-engineering Ian Bicking's brain: inside pip and virtualenv slides (PyCon)
 http://carljm.github.io/pipvirtualenv-preso/#1
 
+Near Duplicate Image Detection
+https://realpython.com/blog/python/fingerprinting-images-for-near-duplicate-detection/
+
 ##### Rust
 
 Rust Language
