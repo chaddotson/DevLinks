@@ -20,6 +20,9 @@ http://carljm.github.io/pipvirtualenv-preso/#1
 Near Duplicate Image Detection
 https://realpython.com/blog/python/fingerprinting-images-for-near-duplicate-detection/
 
+Bundle All Code Into A Single Zip FIle
+http://stackoverflow.com/questions/17486578/how-can-you-bundle-all-your-python-code-into-a-single-zip-file
+
 ##### Rust
 
 Rust Language
