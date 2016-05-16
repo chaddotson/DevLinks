@@ -71,3 +71,6 @@ https://medium.com/@garywiz/five-things-old-programmers-need-to-remember-e78caf0
 
 TextCleaner - Image Manipulation
 http://www.fmwconcepts.com/imagemagick/textcleaner/index.php
+
+Big-O Cheatsheet
+http://bigocheatsheet.com/
